@@ -8,7 +8,8 @@ The repository contains a few folders and files created to demonstrate Git use.
 
 ## Maintainer ##
 
-The repository is maintained by Steve Malers.
+The repository is maintained by the person that is doing the training lessons,
+in this case Steve Malers.
 
 ## Contributing ##
 
